@@ -6,7 +6,7 @@ universal
 * Published under an [MIT license](http://www.opensource.org/licenses/mit-license.html).
 
 ## How does it work?
-<a href='http://http://youtu.be/CT7OLEwbcUo'></a>
+<a href='http://http://youtu.be/CT7OLEwbcUo'>Tutorial</a>
 
 
 ### Git Pull Subfolders
