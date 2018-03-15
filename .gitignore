@@ -1,0 +1,6 @@
+#exclude
+/plugin-demos/*
+/wordpress-demos/*
+
+#exclude os x files
+.DS_Store
